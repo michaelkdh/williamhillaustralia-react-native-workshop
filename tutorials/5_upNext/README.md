@@ -38,3 +38,5 @@ They would like to see a <FlatList /> of racing events based off the selected fi
 Each of these items will need to be clickable, along with having a height of 80pt, horizontal padding of 8pt, border bottom 1pt '#ddd'.
 
 (Advanced) Show the time of race as a countdown until jump.
+
+[Continue >>](../6_runnersList)

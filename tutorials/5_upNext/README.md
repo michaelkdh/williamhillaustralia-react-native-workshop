@@ -12,7 +12,7 @@ Designers have advised that they would like a header:
 - 60pt height, '#00143c' backgroundColor
 - A title "Up next" in the positioned vertically and horizontally centered, 20pt fontSize, '700' fontWeight
 
-(Advanced) We'd also like the <StatusBar /> barStyle to be "light-content" so we can see it better.
+(Advanced) We'd also like the `<StatusBar />` barStyle to be "light-content" so we can see it better.
     
 ## Filter on race types
 
@@ -28,9 +28,9 @@ They would also like to filter content based off race types. Each one of these f
 
 We'll need to fetch data from https://www.williamhill.com.au/experience/racing/upcomingracing
 
-When we are loading the data, display an <ActivityIndicator />.
+When we are loading the data, display an `<ActivityIndicator />`.
 
-They would like to see a <FlatList /> of racing events based off the selected filter.
+They would like to see a `<FlatList />` of racing events based off the selected filter.
 - Venue name
 - Race number
 - Time of jump format(h:mm A) right aligned

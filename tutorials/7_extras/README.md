@@ -9,3 +9,5 @@ Asides from the advanced tasks in [4. Extending our application](../4_extending_
 - Add silks in runners list
 - Setup CodePush for over the air updates
 - Integrate with redux
+
+[Finally >>](../8_rn_at_wha)

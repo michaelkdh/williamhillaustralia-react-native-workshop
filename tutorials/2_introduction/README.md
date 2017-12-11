@@ -13,6 +13,7 @@ Native mobile development is still widely preferred in the mobile space.
 By using **Native iOS and Android** we have:
 
 ### Pros
+- Truly native experience
 - Full API access
 - Third party libraries / large ecosystem
 - Support
@@ -25,7 +26,7 @@ By using **Native iOS and Android** we have:
 However, with **React Native** we receive:
 
 ### Pros
-- Native components
+- Native experience
 - Single common skillset and shared resources (JavaScript)
 - Cross platform library knowledge (React.js)
 - Single repository
